@@ -1,0 +1,18 @@
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\bin\Debug\net8.0\Practica POO.exe
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\bin\Debug\net8.0\Practica POO.deps.json
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\bin\Debug\net8.0\Practica POO.runtimeconfig.json
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\bin\Debug\net8.0\Practica POO.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\bin\Debug\net8.0\Practica POO.pdb
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\bin\Debug\net8.0\Clases.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\bin\Debug\net8.0\Clases.pdb
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\obj\Debug\net8.0\Practica POO.csproj.AssemblyReference.cache
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\obj\Debug\net8.0\Practica POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\obj\Debug\net8.0\Practica POO.AssemblyInfoInputs.cache
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\obj\Debug\net8.0\Practica POO.AssemblyInfo.cs
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\obj\Debug\net8.0\Practica POO.csproj.CoreCompileInputs.cache
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\obj\Debug\net8.0\Practica.9096995D.Up2Date
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\obj\Debug\net8.0\Practica POO.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\obj\Debug\net8.0\refint\Practica POO.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\obj\Debug\net8.0\Practica POO.pdb
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\obj\Debug\net8.0\Practica POO.genruntimeconfig.cache
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\Practica POO\Practica POO\obj\Debug\net8.0\ref\Practica POO.dll
